@@ -10,3 +10,4 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 virtualenv>=20.4.3
 contextvars>=2.4
+immutables>=0.15
